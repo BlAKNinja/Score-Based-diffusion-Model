@@ -34,7 +34,7 @@ To use this repository and the Score-Based Diffusion Model for image generation,
 Clone the repository to your local machine:
 
 1) Copy code :<br>
-git clone https://github.com/your-username/score-based-diffusion-model.git<br>
+git clone https://github.com/BlAKNinja/score-based-diffusion-model.git<br>
 cd score-based-diffusion-model
 2) Set up your Python environment and install the required dependencies. You can use virtual environments or containerization tools like Docker for isolation.
 
